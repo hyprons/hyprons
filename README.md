@@ -1,6 +1,6 @@
 ## Hi there 👋
-I'm a full stack developer from NL🇳🇱.
-I'm currently working on a project called Wordly, a modern learning app: https://wrdly.vercel.app.
+I'm a full stack developer from NL🇳🇱. <br />
+I'm currently working on a project called Wordly, a modern learning app: https://wrdly.vercel.app. <br />
 I'm currently learning Linux, Tailwind Css and Next.js.
 
 # 💻 My Tech Stack:
