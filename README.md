@@ -13,7 +13,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash         10 mins         ██████████████░░░░░░░░░░░   55.40 %
+TypeScript   8 mins          ███████████░░░░░░░░░░░░░░   44.60 %
 ```
 
 <!--END_SECTION:waka-->
