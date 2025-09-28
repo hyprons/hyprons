@@ -13,11 +13,11 @@ pls check out [reverie.sh](https://reverie.sh) for more info (*coming soon™*)
 <!--START_SECTION:waka-->
 
 ```txt
-Python                             55 mins         ██████████▓░░░░░░░░░░░░░░   42.52 %
-Assembly                           19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.28 %
-C                                  15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 %
-Objective-C                        15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
-C++                                11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
+Python     51 mins         ██████████████████▓░░░░░░   74.30 %
+C++        11 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.27 %
+Other      4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
+YAML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+C          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
