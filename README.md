@@ -13,11 +13,11 @@ pls check out [reverie.sh](https://reverie.sh) for more info (*coming soon™*)
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            24 hrs          ██████████████████████▓░░   90.85 %
-Groovy            29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-Gradle            23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-C                 19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-Java Properties   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Kotlin            23 hrs 28 mins  ███████████████████████░░   92.19 %
+Groovy            29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+Gradle            23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Java Properties   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Java              10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
 <!--END_SECTION:waka-->
