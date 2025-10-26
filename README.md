@@ -13,11 +13,11 @@ pls check out [reverie.sh](https://reverie.sh) for more info (*coming soon™*)
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            25 hrs          █████████████████████░░░░   84.48 %
-Python            1 hr 58 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
-Groovy            29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-Gradle            23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-YAML              15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Kotlin            19 hrs 29 mins  ████████████████████▓░░░░   82.25 %
+Python            2 hrs 13 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
+Groovy            20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Gradle            15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+YAML              15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 ```
 
 <!--END_SECTION:waka-->
