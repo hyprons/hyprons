@@ -13,9 +13,9 @@ pls check out [reverie.sh](https://reverie.sh) for more info (*coming soon™*)
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            3 hrs 15 mins   █████████▒░░░░░░░░░░░░░░░   37.70 %
-Python            2 hrs 25 mins   ███████░░░░░░░░░░░░░░░░░░   28.04 %
-Text              45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
+Kotlin            3 hrs           ████████▓░░░░░░░░░░░░░░░░   34.80 %
+Python            2 hrs 25 mins   ███████░░░░░░░░░░░░░░░░░░   28.03 %
+Text              1 hr 26 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
 C++               45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
 C/C++             15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
 ```
