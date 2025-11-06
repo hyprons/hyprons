@@ -13,11 +13,8 @@ pls check out [reverie.sh](https://reverie.sh) for more info (*coming soon™*)
 <!--START_SECTION:waka-->
 
 ```txt
-Other            4 hrs 26 mins   ███████████████████▒░░░░░   76.96 %
-Text             45 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
-C/C++            15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
-C++              11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
-C                6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+Other   4 hrs 26 mins   █████████████████████▒░░░   85.99 %
+Text    43 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.01 %
 ```
 
 <!--END_SECTION:waka-->
