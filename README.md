@@ -13,8 +13,8 @@ pls check out [reverie.sh](https://reverie.sh) for more info (*coming soon™*)
 <!--START_SECTION:waka-->
 
 ```txt
-Other   4 hrs 26 mins   █████████████████████▒░░░   85.99 %
-Text    43 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.01 %
+Other   4 hrs 26 mins   ████████████████████████▓   98.89 %
+Text    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 ```
 
 <!--END_SECTION:waka-->
