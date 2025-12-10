@@ -13,11 +13,11 @@ pls check out [reverie.sh](https://reverie.sh) for more info (*coming soon™*)
 <!--START_SECTION:waka-->
 
 ```txt
-C++              2 hrs 24 mins   █████████████▓░░░░░░░░░░░   54.93 %
-C                38 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.61 %
-Text             22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
-Assembly         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
-GitIgnore file   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+C++              2 hrs 24 mins   ███████████████░░░░░░░░░░   60.34 %
+C                24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
+Text             22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
+Assembly         12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+GitIgnore file   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
 ```
 
 <!--END_SECTION:waka-->
