@@ -13,7 +13,11 @@ pls check out [reverie.sh](https://reverie.sh) for more info (*coming soon™*)
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++              28 mins         ████████████▓░░░░░░░░░░░░   51.24 %
+Text             12 mins         ██████░░░░░░░░░░░░░░░░░░░   23.66 %
+CMake            4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
+C                2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+JSON             2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
 ```
 
 <!--END_SECTION:waka-->
