@@ -13,11 +13,11 @@ pls check out [reverie.sh](https://reverie.sh) for more info (*coming soon™*)
 <!--START_SECTION:waka-->
 
 ```txt
-Rust     5 hrs 8 mins    ████████████████▒░░░░░░░░   65.17 %
-Other    1 hr 13 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.46 %
-JSON     34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
-TOML     31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
-Python   22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+Rust          5 hrs 5 mins    ████████████████▒░░░░░░░░   64.93 %
+Other         1 hr 13 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
+JSON          34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
+TOML          31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+Python        22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
 ```
 
 <!--END_SECTION:waka-->
