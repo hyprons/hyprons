@@ -13,11 +13,10 @@ pls check out [reverie.sh](https://reverie.sh) for more info (*coming soon™*)
 <!--START_SECTION:waka-->
 
 ```txt
-Makefile   27 mins         █████████▓░░░░░░░░░░░░░░░   39.20 %
-oil        18 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.38 %
-C++        12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.37 %
-C          5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
-Python     4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+C          3 hrs 35 mins   ██████████████████▓░░░░░░   74.07 %
+Makefile   42 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
+oil        27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
+Lua        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
 ```
 
 <!--END_SECTION:waka-->
