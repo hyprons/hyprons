@@ -13,9 +13,9 @@ pls check out [reverie.sh](https://reverie.sh) for more info (*coming soon™*)
 <!--START_SECTION:waka-->
 
 ```txt
-C             14 hrs 29 mins  ██████████████████▓░░░░░░   75.06 %
-oil           2 hrs 42 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 %
-Lua           27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+C             14 hrs 33 mins  ███████████████████░░░░░░   75.35 %
+oil           2 hrs 39 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.74 %
+Lua           28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
 CMake         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 Other         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
 ```
