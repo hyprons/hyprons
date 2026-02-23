@@ -13,7 +13,8 @@ pls check out [reverie.sh](https://reverie.sh) for more info (*coming soon™*)
 <!--START_SECTION:waka-->
 
 ```txt
-C#   4 hrs 30 mins         █████████████████████████   100.00 %
+C#       4 hrs 30 mins         ████████████████████████▓   98.00 %
+Python   5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
 ```
 
 <!--END_SECTION:waka-->
