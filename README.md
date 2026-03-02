@@ -13,10 +13,9 @@ pls check out [reverie.sh](https://reverie.sh) for more info (*coming soon™*)
 <!--START_SECTION:waka-->
 
 ```txt
-JSON     27 mins               █████████████████▒░░░░░░░   68.68 %
-Python   5 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
-C        4 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
-Other    2 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+JSON    27 mins               ████████████████████░░░░░   79.57 %
+C       4 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   12.90 %
+Other   2 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
 ```
 
 <!--END_SECTION:waka-->
