@@ -1,15 +1,15 @@
-## hey there 👋
-🔭 I'm currently working on 💫reverie & 🪷lotus. <br />
-🌱 I'm currently learning x86 asm & osdev.
+```txt
+hii i'm hyperons
+i mostly code in c and c++
 
-pls check out [reverie.sh](https://reverie.sh) for more info (*coming soon™*)
+i'm currently learning rust
+and working on my compiler
+```
 
-**C on top!!!**
+```txt
+my weekly stats:
+```
 
-## 📊 some info about my github profile:
-![](https://github-readme-streak-stats.herokuapp.com/?user=hyprons&theme=dark&hide_border=true)<br/>
-
-## 📊 what i've been up to this week
 <!--START_SECTION:waka-->
 
 ```txt
@@ -21,48 +21,3 @@ Rust        6 mins                █░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-<details>
-<summary>🛠️ the tools i like to use</summary>
-
-```
-============================================================
-         #*         
-        ##**        
-       ###***       
-      ####****      
-     ######****     
-    #######*****               CMake - C/C++ build system
-   ######::******                
-  #####::::*******  
- ####+++=::*******  
-##*++++++++++****** 
-*+++++++++++++++++**
-============================================================
-    ==         =    
-  ======       ===  
-++=======      +++++
-++++======     +++++
-+++*+======    +++++
-*****+======   +++++
-*****  +++++++ +++++           Neovim - goated text editor
-*****   ++++++++++++
-*****    +++++++****
-*****     +++++++***
-*****      +++++++**
-  ###        +++*+  
-    #         +*
-============================================================
-          +          
-         +++         
-        +++++        
-       ++++++=       
-      ==++++++=      
-     ===++++++++               Arch - best linux distro
-    +++++++++++++    
-   ++++++   ++++++   
-  +++++++   ++++++*  
- ++++++       *+++++ 
-++*               +++
-============================================================
-```
-</details>
